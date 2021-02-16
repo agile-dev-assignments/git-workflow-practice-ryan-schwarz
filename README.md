@@ -1,6 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 ## [10 reasons why you should place comments in your code](https://razmans.medium.com/10-reasons-why-you-should-place-comments-in-your-code-96783a69ceda)
 
 ### What I Found Interesting
